@@ -4,3 +4,4 @@ pwd -> mostra diretório de trabalho
 rm  -> apaga arquivo
 rm  -i -> apaga arquivo pedindo autorização
 cat -> exibe conteúdo do arquivo
+rm -rf -> remove de forma recursiva e forçada todos os diretórios
