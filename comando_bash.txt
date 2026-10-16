@@ -1,0 +1,5 @@
+ls -> lista arquivos
+cd -> move entre diretórios
+pwd -> mostra diretório de trabalho
+rm  -> apaga arquivo
+rm  -i -> apaga arquivo pedindo autorização
