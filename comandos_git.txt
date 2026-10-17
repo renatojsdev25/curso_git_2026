@@ -3,3 +3,15 @@ git status -> mostra o status da pasta atual
 git add - > adciona arquivo para serem comitados
 git commit -m "msg" -> faz o commit do que estava para ser comitado
 git log -> mostra todos histórico de commit
+
+## FLUXO DE TRABALHO
+
+1. Criar o diretório pasta do projeto
+2. Inciar o git dentro do diretorio criado (git init .)
+3. Editar ou criar arquivos
+4. git status 
+5. git add <nome arquivo>
+6. git status
+7. git commit -m "mensagem"
+8. git status 
+9. volta para o passo 3
